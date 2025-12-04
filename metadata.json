@@ -1,0 +1,5 @@
+{
+  "name": "PocketChem Lab",
+  "description": "A responsive, interactive chemistry laboratory for simulating simple chemical reactions safely on your device. Designed for mobile and desktop.",
+  "requestFramePermissions": []
+}
